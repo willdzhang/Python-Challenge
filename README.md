@@ -1,5 +1,3 @@
-# Python-Challenge
-exercise developing python skills/knowledge
 # Unit 3 | Assignment - Py Me Up, Charlie
 
 ## Background
